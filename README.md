@@ -1,1 +1,1 @@
-# git_lecture
+오홍기
